@@ -1,0 +1,24 @@
+一. Android(JAva /Kotlin)
+	1.基本android开发
+	  （1）Java基础、android基础
+	  通信方式：
+	  通信机制：
+	  （2）android进阶
+	2.android的NDK开发
+		（1）基本的NDK开发
+		（2）串口开发
+  3.主流的开源框架
+  	（1）异步加载框架  RXJava、RxAndroid
+  	（2）图片加载框架  Picasso  Glide  Fresso
+  	（3）网络请求框架  Okhttp   Retrofit
+  	（4）数据库加载框架 GreenDao
+  4.Kotlin语法开发android
+  	......
+  
+
+二. Qt（C/C++）
+	1.基本语法
+	2.Qtcreator开发
+	3.开发板
+	
+三.Python(python)
